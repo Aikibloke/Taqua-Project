@@ -1,0 +1,116 @@
+external_gene_name	Gene Name	Related Genes	Species
+ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5(ADAMTS5)	RG	Homo sapiens
+ADCYAP1R1	ADCYAP receptor type I(ADCYAP1R1)	RG	Homo sapiens
+ADM	adrenomedullin(ADM)	RG	Homo sapiens
+AIMP1	aminoacyl tRNA synthetase complex interacting multifunctional protein 1(AIMP1)	RG	Homo sapiens
+ALPL	"alkaline phosphatase, liver/bone/kidney(ALPL)"	RG	Homo sapiens
+ANG	angiogenin(ANG)	RG	Homo sapiens
+ANXA2	annexin A2(ANXA2)	RG	Homo sapiens
+ANXA4	annexin A4(ANXA4)	RG	Homo sapiens
+APOD	apolipoprotein D(APOD)	RG	Homo sapiens
+APOE	apolipoprotein E(APOE)	RG	Homo sapiens
+APOL1	apolipoprotein L1(APOL1)	RG	Homo sapiens
+ARSB	arylsulfatase B(ARSB)	RG	Homo sapiens
+C3	complement C3(C3)	RG	Homo sapiens
+C4BPA	complement component 4 binding protein alpha(C4BPA)	RG	Homo sapiens
+CD44	CD44 molecule (Indian blood group)(CD44)	RG	Homo sapiens
+CD55	CD55 molecule (Cromer blood group)(CD55)	RG	Homo sapiens
+CLCF1	cardiotrophin-like cytokine factor 1(CLCF1)	RG	Homo sapiens
+COL16A1	collagen type XVI alpha 1 chain(COL16A1)	RG	Homo sapiens
+COL27A1	collagen type XXVII alpha 1 chain(COL27A1)	RG	Homo sapiens
+COL9A2	collagen type IX alpha 2 chain(COL9A2)	RG	Homo sapiens
+COMP	cartilage oligomeric matrix protein(COMP)	RG	Homo sapiens
+CP	ceruloplasmin(CP)	RG	Homo sapiens
+CPM	carboxypeptidase M(CPM)	RG	Homo sapiens
+CRISP3	cysteine rich secretory protein 3(CRISP3)	RG	Homo sapiens
+CRISPLD2	cysteine rich secretory protein LCCL domain containing 2(CRISPLD2)	RG	Homo sapiens
+CRYAB	crystallin alpha B(CRYAB)	RG	Homo sapiens
+CTSB	cathepsin B(CTSB)	RG	Homo sapiens
+CTSH	cathepsin H(CTSH)	RG	Homo sapiens
+CTSW	cathepsin W(CTSW)	RG	Homo sapiens
+CXCL14	C-X-C motif chemokine ligand 14(CXCL14)	RG	Homo sapiens
+CXCL2	C-X-C motif chemokine ligand 2(CXCL2)	RG	Homo sapiens
+CXCR4	C-X-C motif chemokine receptor 4(CXCR4)	RG	Homo sapiens
+DCN	decorin(DCN)	RG	Homo sapiens
+DEFB1	defensin beta 1(DEFB1)	RG	Homo sapiens
+DKK1	dickkopf WNT signaling pathway inhibitor 1(DKK1)	RG	Homo sapiens
+DPP4	dipeptidyl peptidase 4(DPP4)	RG	Homo sapiens
+ECM1	extracellular matrix protein 1(ECM1)	RG	Homo sapiens
+EFEMP1	EGF containing fibulin like extracellular matrix protein 1(EFEMP1)	RG	Homo sapiens
+EMID1	EMI domain containing 1(EMID1)	RG	Homo sapiens
+FGFR3	fibroblast growth factor receptor 3(FGFR3)	RG	Homo sapiens
+GAST	gastrin(GAST)	RG	Homo sapiens
+GDF15	growth differentiation factor 15(GDF15)	RG	Homo sapiens
+GNLY	granulysin(GNLY)	RG	Homo sapiens
+GPX3	glutathione peroxidase 3(GPX3)	RG	Homo sapiens
+GREM2	"gremlin 2, DAN family BMP antagonist(GREM2)"	RG	Homo sapiens
+GRN	granulin precursor(GRN)	RG	Homo sapiens
+HABP2	hyaluronan binding protein 2(HABP2)	RG	Homo sapiens
+IGFBP1	insulin like growth factor binding protein 1(IGFBP1)	RG	Homo sapiens
+IGFBP3	insulin like growth factor binding protein 3(IGFBP3)	RG	Homo sapiens
+IGFBP6	insulin like growth factor binding protein 6(IGFBP6)	RG	Homo sapiens
+IHH	indian hedgehog(IHH)	RG	Homo sapiens
+IL15RA	interleukin 15 receptor subunit alpha(IL15RA)	RG	Homo sapiens
+IL17RB	interleukin 17 receptor B(IL17RB)	RG	Homo sapiens
+IL1R1	interleukin 1 receptor type 1(IL1R1)	RG	Homo sapiens
+IL2RB	interleukin 2 receptor subunit beta(IL2RB)	RG	Homo sapiens
+IL6ST	interleukin 6 signal transducer(IL6ST)	RG	Homo sapiens
+ITGA3	integrin subunit alpha 3(ITGA3)	RG	Homo sapiens
+ITGAX	integrin subunit alpha X(ITGAX)	RG	Homo sapiens
+KAZALD1	Kazal type serine peptidase inhibitor domain 1(KAZALD1)	RG	Homo sapiens
+LAMA1	laminin subunit alpha 1(LAMA1)	RG	Homo sapiens
+LAMB3	laminin subunit beta 3(LAMB3)	RG	Homo sapiens
+LGALS3	galectin 3(LGALS3)	RG	Homo sapiens
+LUM	lumican(LUM)	RG	Homo sapiens
+LYPD3	LY6/PLAUR domain containing 3(LYPD3)	RG	Homo sapiens
+MAP3K5	mitogen-activated protein kinase kinase kinase 5(MAP3K5)	RG	Homo sapiens
+MMP10	matrix metallopeptidase 10(MMP10)	RG	Homo sapiens
+MMP11	matrix metallopeptidase 11(MMP11)	RG	Homo sapiens
+MMP26	matrix metallopeptidase 26(MMP26)	RG	Homo sapiens
+MMP7	matrix metallopeptidase 7(MMP7)	RG	Homo sapiens
+MST1R	macrophage stimulating 1 receptor(MST1R)	RG	Homo sapiens
+MTCL1	microtubule crosslinking factor 1(MTCL1)	RG	Homo sapiens
+MUC16	"mucin 16, cell surface associated(MUC16)"	RG	Homo sapiens
+NTN1	netrin 1(NTN1)	RG	Homo sapiens
+OLFM1	olfactomedin 1(OLFM1)	RG	Homo sapiens
+PAM	peptidylglycine alpha-amidating monooxygenase(PAM)	RG	Homo sapiens
+PAPLN	"papilin, proteoglycan like sulfated glycoprotein(PAPLN)"	RG	Homo sapiens
+PCSK5	proprotein convertase subtilisin/kexin type 5(PCSK5)	RG	Homo sapiens
+PDGFC	platelet derived growth factor C(PDGFC)	RG	Homo sapiens
+PKHD1L1	polycystic kidney and hepatic disease 1 (autosomal recessive)-like 1(PKHD1L1)	RG	Homo sapiens
+PLTP	phospholipid transfer protein(PLTP)	RG	Homo sapiens
+PPFIBP2	PPFIA binding protein 2(PPFIBP2)	RG	Homo sapiens
+PRLR	prolactin receptor(PRLR)	RG	Homo sapiens
+PROM1	prominin 1(PROM1)	RG	Homo sapiens
+RARRES2	retinoic acid receptor responder 2(RARRES2)	RG	Homo sapiens
+RBP4	retinol binding protein 4(RBP4)	RG	Homo sapiens
+S100A13	S100 calcium binding protein A13(S100A13)	RG	Homo sapiens
+S100A4	S100 calcium binding protein A4(S100A4)	RG	Homo sapiens
+SCARA5	scavenger receptor class A member 5(SCARA5)	RG	Homo sapiens
+SCGB2A1	secretoglobin family 2A member 1(SCGB2A1)	RG	Homo sapiens
+SCNN1G	sodium channel epithelial 1 gamma subunit(SCNN1G)	RG	Homo sapiens
+SEMA3B	semaphorin 3B(SEMA3B)	RG	Homo sapiens
+SERPINA1	serpin family A member 1(SERPINA1)	RG	Homo sapiens
+SERPINA5	serpin family A member 5(SERPINA5)	RG	Homo sapiens
+SERPINE1	serpin family E member 1(SERPINE1)	RG	Homo sapiens
+SERPING1	serpin family G member 1(SERPING1)	RG	Homo sapiens
+SFN	stratifin(SFN)	RG	Homo sapiens
+SFRP1	secreted frizzled related protein 1(SFRP1)	RG	Homo sapiens
+SFRP4	secreted frizzled related protein 4(SFRP4)	RG	Homo sapiens
+SLC39A6	solute carrier family 39 member 6(SLC39A6)	RG	Homo sapiens
+SLPI	secretory leukocyte peptidase inhibitor(SLPI)	RG	Homo sapiens
+SPP1	secreted phosphoprotein 1(SPP1)	RG	Homo sapiens
+STC1	stanniocalcin 1(STC1)	RG	Homo sapiens
+TCN1	transcobalamin 1(TCN1)	RG	Homo sapiens
+TFPI	tissue factor pathway inhibitor(TFPI)	RG	Homo sapiens
+TGFB2	transforming growth factor beta 2(TGFB2)	RG	Homo sapiens
+TGM2	transglutaminase 2(TGM2)	RG	Homo sapiens
+THBD	thrombomodulin(THBD)	RG	Homo sapiens
+THSD4	thrombospondin type 1 domain containing 4(THSD4)	RG	Homo sapiens
+TIMP3	TIMP metallopeptidase inhibitor 3(TIMP3)	RG	Homo sapiens
+TMPRSS13	"transmembrane protease, serine 13(TMPRSS13)"	RG	Homo sapiens
+TNC	tenascin C(TNC)	RG	Homo sapiens
+TRPM8	transient receptor potential cation channel subfamily M member 8(TRPM8)	RG	Homo sapiens
+VCAN	versican(VCAN)	RG	Homo sapiens
+VIM	vimentin(VIM)	RG	Homo sapiens
+WFDC2	WAP four-disulfide core domain 2(WFDC2)	RG	Homo sapiens
